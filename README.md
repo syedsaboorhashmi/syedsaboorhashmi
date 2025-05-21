@@ -8,7 +8,7 @@ I enjoy exploring real-world problems through data, creating dashboards, and tel
 
 ### 🧑‍🎓 About Me
 
-- 🎓 Graduated with a **B.Tech in Information Technology**  
+- 🎓 Earned a Bachelor's degree in Information Technology Engineering (B.Tech)**  
 - 💼 Actively **seeking entry-level opportunities** in **Data Analytics**  
 - 🌱 Always learning new tools and techniques to sharpen my analytical thinking  
 - 🛠️ Working on real-world projects to build a strong data portfolio
