@@ -53,7 +53,7 @@ I enjoy exploring real-world problems through data, creating dashboards, and tel
    
 5. **Insurance Policies Dashboard (Power BI)**  
      Power BI dashboard project analyzing insurance claims and policy data. Includes interactive visuals, DAX measures, SQL data prep, and drill-down functionality for detailed insights. 
-   🔗 [View Project](https://github.com/syedsaboorhashmi/PowerBI_Insurance_project)
+     🔗 [View Project](https://github.com/syedsaboorhashmi/PowerBI_Insurance_project)
 
 6. **Retail Sales Analysis (SQL)**  
    Analyzed retail data using SQL to understand customer behavior, product performance, and key sales trends.  
