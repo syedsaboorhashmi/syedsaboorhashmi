@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Syed Saboor Hashmi
+# 👋 Hello there, I'm Syed Saboor Hashmi
 
 🎯 **Aspiring Data Analyst**  
 Turning curiosity into insights, and data into decisions.  
@@ -50,16 +50,20 @@ I enjoy exploring real-world problems through data, creating dashboards, and tel
 4. **UPI Transactions Dashboard (Power BI)**  
    Created a Power BI dashboard analyzing UPI transactions across India by city, bank, device type, and user demographics.  
    🔗 [View Project](https://github.com/syedsaboorhashmi/Upi_Transactions_Project)
+   
+5. **Insurance Policies Dashboard (Power BI)**  
+     Power BI dashboard project analyzing insurance claims and policy data. Includes interactive visuals, DAX measures, SQL data prep, and drill-down functionality for detailed insights. 
+   🔗 [View Project](https://github.com/syedsaboorhashmi/PowerBI_Insurance_project)
 
-5. **Retail Sales Analysis (SQL)**  
+6. **Retail Sales Analysis (SQL)**  
    Analyzed retail data using SQL to understand customer behavior, product performance, and key sales trends.  
    🔗 [View Project](https://github.com/syedsaboorhashmi/retail_sale_analysis_sql)
 
-6. **Ferns and Petals Dashboard (Excel)**  
+7. **Ferns and Petals Dashboard (Excel)**  
    Built a sales dashboard using Excel, Power Query, and DAX to analyze revenue and customer behavior for FNP.  
    🔗 [View Project](https://github.com/syedsaboorhashmi/Excel_project_FNP)
 
-7. **Diwali Sales EDA (Python)**  
+8. **Diwali Sales EDA (Python)**  
    Performed exploratory data analysis on Diwali sales data using Pandas and Seaborn to identify purchasing patterns.  
    🔗 [View Project](https://github.com/syedsaboorhashmi/Diwali_Sales_EDA_Python)
 
